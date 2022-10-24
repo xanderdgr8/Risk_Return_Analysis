@@ -27,7 +27,7 @@ Install JupyterLab or Jupyter Notebook using PIP from the Python Package Index a
 
 ### 4.) Use the Pandas pct_change function together with dropna to create the daily returns DataFrame. Base this DataFrame on the NAV prices of the four portfolios and on the closing price of the S&P 500 Index. Review the first five rows of the daily returns DataFrame. The following image shows how your daily returns DataFrame should appear: 
 
-<img src="daily_returns_dataframe.png" width="1200" height="600">
+<img src="daily_returns_dataframe.png" width="900" height="300">
 
 
 ### 5.) Run the quantative analysis
